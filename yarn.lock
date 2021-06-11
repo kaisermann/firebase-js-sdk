@@ -2468,6 +2468,16 @@
     resolve "~1.17.0"
     strip-json-comments "~3.1.1"
 
+"@rushstack/ts-command-line@4.7.10":
+  version "4.7.10"
+  resolved "https://registry.npmjs.org/@rushstack/ts-command-line/-/ts-command-line-4.7.10.tgz#a2ec6efb1945b79b496671ce90eb1be4f1397d31"
+  integrity sha512-8t042g8eerypNOEcdpxwRA3uCmz0duMo21rG4Z2mdz7JxJeylDmzjlU3wDdef2t3P1Z61JCdZB6fbm1Mh0zi7w==
+  dependencies:
+    "@types/argparse" "1.0.38"
+    argparse "~1.0.9"
+    colors "~1.2.1"
+    string-argv "~0.3.1"
+
 "@rushstack/ts-command-line@4.7.8":
   version "4.7.8"
   resolved "https://registry.npmjs.org/@rushstack/ts-command-line/-/ts-command-line-4.7.8.tgz#3aa77cf544c571be3206fc2bcba20c7a096ed254"
@@ -7750,8 +7760,8 @@ firebase-admin@9.7.0:
     "@firebase/app-exp" "0.0.900"
     "@firebase/auth-compat" "0.0.900"
     "@firebase/auth-exp" "0.0.900"
-    "@firebase/database" "0.10.3"
-    "@firebase/firestore" "2.3.4"
+    "@firebase/database" "0.10.4"
+    "@firebase/firestore" "2.3.5"
     "@firebase/functions-compat" "0.0.900"
     "@firebase/functions-exp" "0.0.900"
     "@firebase/messaging-compat" "0.0.900"
@@ -7760,7 +7770,7 @@ firebase-admin@9.7.0:
     "@firebase/performance-exp" "0.0.900"
     "@firebase/remote-config-compat" "0.0.900"
     "@firebase/remote-config-exp" "0.0.900"
-    "@firebase/storage" "0.5.3"
+    "@firebase/storage" "0.5.4"
 
 firebase-functions@3.13.0:
   version "3.13.0"
