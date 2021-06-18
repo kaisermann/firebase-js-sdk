@@ -7742,7 +7742,7 @@ firebase-admin@9.7.0:
     "@google-cloud/storage" "^5.3.0"
 
 "firebase-exp@file:packages-exp/firebase-exp":
-  version "9.0.0-beta.3"
+  version "9.0.0-beta.4"
   dependencies:
     "@firebase/analytics-compat" "0.0.900"
     "@firebase/analytics-exp" "0.0.900"
@@ -7750,8 +7750,8 @@ firebase-admin@9.7.0:
     "@firebase/app-exp" "0.0.900"
     "@firebase/auth-compat" "0.0.900"
     "@firebase/auth-exp" "0.0.900"
-    "@firebase/database" "0.10.3"
-    "@firebase/firestore" "2.3.4"
+    "@firebase/database" "0.10.5"
+    "@firebase/firestore" "2.3.7"
     "@firebase/functions-compat" "0.0.900"
     "@firebase/functions-exp" "0.0.900"
     "@firebase/messaging-compat" "0.0.900"
@@ -7760,7 +7760,7 @@ firebase-admin@9.7.0:
     "@firebase/performance-exp" "0.0.900"
     "@firebase/remote-config-compat" "0.0.900"
     "@firebase/remote-config-exp" "0.0.900"
-    "@firebase/storage" "0.5.3"
+    "@firebase/storage" "0.5.5"
 
 firebase-functions@3.13.0:
   version "3.13.0"
@@ -16623,10 +16623,10 @@ typescript@3.7.x:
   resolved "https://registry.npmjs.org/typescript/-/typescript-3.7.7.tgz#c931733e2ec10dda56b855b379cc488a72a81199"
   integrity sha512-MmQdgo/XenfZPvVLtKZOq9jQQvzaUAUpcKW8Z43x9B2fOm4S5g//tPtMweZUIP+SoBqrVPEIm+dJeQ9dfO0QdA==
 
-typescript@4.2.2:
-  version "4.2.2"
-  resolved "https://registry.npmjs.org/typescript/-/typescript-4.2.2.tgz#1450f020618f872db0ea17317d16d8da8ddb8c4c"
-  integrity sha512-tbb+NVrLfnsJy3M59lsDgrzWIflR4d4TIUjz+heUnHZwdF7YsrMTKoRERiIvI2lvBG95dfpLxB21WZhys1bgaQ==
+typescript@4.3.4:
+  version "4.3.4"
+  resolved "https://registry.npmjs.org/typescript/-/typescript-4.3.4.tgz#3f85b986945bcf31071decdd96cf8bfa65f9dcbc"
+  integrity sha512-uauPG7XZn9F/mo+7MrsRjyvbxFpzemRjKEZXS4AK83oP2KKOJPvb+9cO/gmnv8arWZvhnjVOXz7B49m1l0e9Ew==
 
 typescript@^4.0.3:
   version "4.2.4"
