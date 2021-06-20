@@ -2594,10 +2594,10 @@
   resolved "https://registry.npmjs.org/@types/chai/-/chai-4.2.18.tgz#0c8e298dbff8205e2266606c1ea5fbdba29b46e4"
   integrity sha512-rS27+EkB/RE1Iz3u0XtVL5q36MGDWbgYe7zWiodyKNUnthxY0rukK5V36eiUCtCisB7NN8zKYH6DO2M37qxFEQ==
 
-"@types/chai@4.2.14":
-  version "4.2.14"
-  resolved "https://registry.npmjs.org/@types/chai/-/chai-4.2.14.tgz#44d2dd0b5de6185089375d976b4ec5caf6861193"
-  integrity sha512-G+ITQPXkwTrslfG5L/BksmbLUA0M1iybEsmCWPqzSxsRRhJZimBKJkoMi8fr/CPygPTj4zO5pJH7I2/cm9M7SQ==
+"@types/chai@4.2.19":
+  version "4.2.19"
+  resolved "https://registry.npmjs.org/@types/chai/-/chai-4.2.19.tgz#80f286b515897413c7a35bdda069cc80f2344233"
+  integrity sha512-jRJgpRBuY+7izT7/WNXP/LsMO9YonsstuL+xuvycDyESpoDoIAsMd7suwpB4h9oEWB+ZlPTqJJ8EHomzNhwTPQ==
 
 "@types/child-process-promise@2.2.1":
   version "2.2.1"
@@ -7742,7 +7742,7 @@ firebase-admin@9.7.0:
     "@google-cloud/storage" "^5.3.0"
 
 "firebase-exp@file:packages-exp/firebase-exp":
-  version "9.0.0-beta.3"
+  version "9.0.0-beta.5"
   dependencies:
     "@firebase/analytics-compat" "0.0.900"
     "@firebase/analytics-exp" "0.0.900"
@@ -7750,8 +7750,8 @@ firebase-admin@9.7.0:
     "@firebase/app-exp" "0.0.900"
     "@firebase/auth-compat" "0.0.900"
     "@firebase/auth-exp" "0.0.900"
-    "@firebase/database" "0.10.3"
-    "@firebase/firestore" "2.3.4"
+    "@firebase/database" "0.10.5"
+    "@firebase/firestore" "2.3.7"
     "@firebase/functions-compat" "0.0.900"
     "@firebase/functions-exp" "0.0.900"
     "@firebase/messaging-compat" "0.0.900"
@@ -7760,7 +7760,7 @@ firebase-admin@9.7.0:
     "@firebase/performance-exp" "0.0.900"
     "@firebase/remote-config-compat" "0.0.900"
     "@firebase/remote-config-exp" "0.0.900"
-    "@firebase/storage" "0.5.3"
+    "@firebase/storage" "0.5.5"
 
 firebase-functions@3.13.0:
   version "3.13.0"
